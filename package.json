@@ -1,0 +1,15 @@
+
+{
+  "name": "gulp-mjml-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "author": "John Paul Giago",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-plumber": "~1.1.0",
+    "gulp-util": "~3.0.7",
+    "gulp-mjml": "~2.0.0",
+    "browser-sync": "~2.18.8"
+  }
+}

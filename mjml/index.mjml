@@ -1,0 +1,25 @@
+<mjml>
+  <mj-head>
+    <mj-title>Title</mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <mj-include path="./mjml/includes/header.mjml" />
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            Content
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-include path="./mjml/includes/footer.mjml" />
+
+    </mj-container>
+  </mj-body>
+</mjml>
